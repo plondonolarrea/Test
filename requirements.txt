@@ -1,0 +1,26 @@
+# ── Google Earth Engine ───────────────────────────────────────────────────────
+earthengine-api>=0.1.390
+
+# ── Interfaz gráfica (Shiny para Python) ─────────────────────────────────────
+shiny>=0.10.0
+shinywidgets>=0.3.3      # widgets interactivos (Plotly, etc.) en Shiny
+
+# ── Geoespacial ──────────────────────────────────────────────────────────────
+geopandas>=0.14.0
+folium>=0.16.0
+shapely>=2.0.0
+
+# ── Datos y análisis ─────────────────────────────────────────────────────────
+pandas>=2.1.0
+numpy>=1.26.0
+scipy>=1.12.0
+
+# ── Visualización ────────────────────────────────────────────────────────────
+plotly>=5.20.0
+
+# ── Exportación Excel ────────────────────────────────────────────────────────
+openpyxl>=3.1.0
+
+# ── Machine Learning (correlación y exportación de modelos) ──────────────────
+joblib>=1.3.0
+scikit-learn>=1.4.0
