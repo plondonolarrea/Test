@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "code-review-graph": {
+      "command": "uvx",
+      "args": [
+        "--with", "igraph",
+        "code-review-graph",
+        "serve",
+        "--repo",
+        "C:\\Users\\Pablo-PC\\Desktop\\respaldo VSCode\\Info\\San_Pablo"
+      ],
+      "type": "stdio"
+    }
+  }
+}
