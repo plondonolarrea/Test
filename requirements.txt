@@ -1,6 +1,6 @@
 # ── Google Earth Engine ───────────────────────────────────────────────────────
 earthengine-api>=0.1.390
-
+# Para autenticación y manejo de credenciales de GEE
 # ── Interfaz gráfica (Shiny para Python) ─────────────────────────────────────
 shiny>=0.10.0
 shinywidgets>=0.3.3      # widgets interactivos (Plotly, etc.) en Shiny
